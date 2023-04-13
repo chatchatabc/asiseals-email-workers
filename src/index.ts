@@ -13,22 +13,25 @@ export default {
   ): Promise<Response> {
     const msg = createMimeMessage();
 
-    msg.setSender({ name: "GPT-4", addr: "bon@bonkind.xyz" });
+    msg.setSender({
+      name: "Asiseal Contact Us Form",
+      addr: "contact_form@bonkind.xyz",
+    });
     msg.setRecipient("bonjomontes@gmail.com");
     msg.setSubject("An email generated in a worker");
     msg.addMessage({ contentType: "text/plain", data: "Hello, world!" });
 
     var message = new EmailMessage(
-      "bon@bonkind.xyz",
+      "contact_form@bonkind.xyz",
       "bonjomontes@gmail.com",
       msg.asRaw()
     );
     try {
       await env.SEB.send(message);
     } catch (e: any) {
-      return new Response(e);
+      return new Response(e, { status: 500 });
     }
 
-    return new Response("Hello Send Email World!");
+    return new Response(JSON.stringify({ success: true }), { status: 200 });
   },
 };
