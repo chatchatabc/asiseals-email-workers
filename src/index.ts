@@ -3,7 +3,6 @@ import { createMimeMessage } from "mimetext";
 
 export interface Env {
   SEB: SendEmail;
-  KV: KVNamespace;
 }
 
 export default {

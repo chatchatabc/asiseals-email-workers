@@ -3,10 +3,6 @@ main = "src/index.ts"
 compatibility_date = "2023-04-13"
 
 
-kv_namespaces = [
-  { binding = "KV", id = "ea7fce1321b7442585ab5b06d864f07f", preview_id = "504101e8d62b435697d8a445d102925d" },
-]
-
 send_email = [
   { type = "send_email", name = "SEB", allowed_destination_addresses = [
     "bonjomontes@gmail.com",
