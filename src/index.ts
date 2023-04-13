@@ -15,13 +15,13 @@ export default {
     const msg = createMimeMessage();
 
     msg.setSender({ name: "GPT-4", addr: "bon@bonkind.xyz" });
-    msg.setRecipient("bonjovimontes3@gmail.com");
+    msg.setRecipient("bonjomontes@gmail.com");
     msg.setSubject("An email generated in a worker");
     msg.addMessage({ contentType: "text/plain", data: "Hello, world!" });
 
     var message = new EmailMessage(
       "bon@bonkind.xyz",
-      "bonjovimontes3@gmail.com",
+      "bonjomontes@gmail.com",
       msg.asRaw()
     );
     try {
