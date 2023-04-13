@@ -1,0 +1,884 @@
+{
+  "contents": [
+    {
+      "name": "Type 202",
+      "summary": "Pump Seals Elastomer Bellows Seal Advantage Seal Type 202 Replaces: John crane type 1,21,2100, sealol type 43CE Short, Pac-Seal type 51,21, US Seal type D, Burgmann type M3,M2,M377",
+      "imageUrl": "/images/products/type-202.webp",
+      "slug": "type-202",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 202", "url": "/images/products/type-202.webp" },
+        { "name": "Type 202", "url": "/images/products/type-202-1.webp" }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Type 201",
+      "summary": "Pump Seals Elastomer Bellows Seal Advantage Seal Type 201 Replaces: John crane type 1,21,2100, sealol type 43CE Long, Pac-Seal type 51, US Seal type E",
+      "imageUrl": "/images/products/type-201.webp",
+      "slug": "type-201",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 201", "url": "/images/products/type-201.webp" },
+        { "name": "Type 201", "url": "/images/products/type-201-1.webp" }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Type 91",
+      "summary": "Pump Seals Multi-spring Wedge Seal Advantage Seal Type 91 Replaces: John crane Type 109,9,909, AESSEAL M01U, VULCAN 1609",
+      "imageUrl": "/images/products/type-91.webp",
+      "slug": "type-91",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 91", "url": "/images/products/type-91.webp" },
+        { "name": "Type 91", "url": "/images/products/type-91-1.webp" }
+      ],
+      "industry": ["pharmaceuticals-industry", "pulp-and-paper"]
+    },
+    {
+      "name": "Type 81",
+      "summary": "Pump Seals Multi-spring O-ring Pusher Seals Advantage Seal Type 81 Replaces: John crane Type 8-1, AESSEAL M01SU, VULCAN 1609S",
+      "imageUrl": "/images/products/type-81.webp",
+      "slug": "type-81",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 81", "url": "/images/products/type-81.webp" },
+        { "name": "Type 81", "url": "/images/products/type-81-1.webp" }
+      ],
+      "industry": ["pharmaceuticals-industry", "chemical", "pulp-and-paper"]
+    },
+    {
+      "name": "Type 61",
+      "summary": "Advantage Seal Type 61 Replaces: John crane Type 6A, AESSEAL B03/B03U, Eagle Burgmann BT-A2, ROTEN 68, VULCAN 70/75, Flowserve 170",
+      "imageUrl": "/images/products/type-61.webp",
+      "slug": "type-61",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 61", "url": "/images/products/type-61.webp" },
+        { "name": "Type 61", "url": "/images/products/type-61-1.webp" }
+      ],
+      "industry": ["waste-water", "automotive"]
+    },
+    {
+      "name": "Type 21",
+      "summary": "Pump Seals Elastomer Bellows Seal Advantage Seal Type 21 Replaces: John crane type 21 and 2100, sealol type 43CU short, Pac-Seal type21",
+      "imageUrl": "/images/products/type-21.webp",
+      "slug": "type-21",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 21", "url": "/images/products/type-21.webp" },
+        { "name": "Type 21", "url": "/images/products/type-21-1.webp" }
+      ],
+      "industry": ["waste-water", "agriculture"]
+    },
+    {
+      "name": "Type 16",
+      "summary": "Pump Seals Elastomer Bellows Seal Advantage Seal Type 16 Replaces: John crane type 6, Sealol type 60L, Pac-Seal type 16, US Seal type A",
+      "imageUrl": "/images/products/type-16.webp",
+      "slug": "type-16",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 16", "url": "/images/products/type-16.webp" },
+        { "name": "Type 16", "url": "/images/products/type-16-1.webp" }
+      ],
+      "industry": ["waste-water", "agriculture", "food-and-beverage"]
+    },
+    {
+      "name": "Type 37F",
+      "summary": "Pump Seals O-ring Pusher Seals Advantage Seal Type 37F Replaces: AESSEAL W02U, ROTEN UNITEN 7K, VULCAN 1688L",
+      "imageUrl": "/images/products/type-37f.webp",
+      "slug": "type-37f",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 37F", "url": "/images/products/type-37f.webp" },
+        { "name": "Type 37F", "url": "/images/products/type-37f-1.webp" }
+      ],
+      "industry": ["chemical", "food-and-beverage"]
+    },
+    {
+      "name": "Type 81B",
+      "summary": "Pump Seals O-ring Pusher Seals Advantage Seal Type 81BB replacs: John crane Type 58B, AESSEAL M04SU, EagleBurgmann BT-C5.KB, VULCAN 1659BS, ROTEN 259BS",
+      "imageUrl": "/images/products/type-81b.webp",
+      "slug": "type-81b",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 81B", "url": "/images/products/type-81b.webp" },
+        { "name": "Type 81B", "url": "/images/products/type-81b-1.webp" }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Type 91B",
+      "summary": "Pump Seals Multi-spring Wedge Seal Advantage Seal Type 91BB Replaces: John crane Type 59B, AESSEAL M04U, EagleBurgmann BT-C56.KB, VULCAN 1659B",
+      "imageUrl": "/images/products/type-91b.webp",
+      "slug": "type-91b",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 91B", "url": "/images/products/type-91b.webp" },
+        { "name": "Type 91B", "url": "/images/products/type-91b-1.webp" }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Type 202E",
+      "summary": "Pump Seals Elastomer Bellows Seals Advantage Seal Type 202E Replaces: John crane Type 2, AESSEAL P05U, VULCAN 22/A5, FLOWSERVE 220/51",
+      "imageUrl": "/images/products/type-202e.webp",
+      "slug": "type-202e",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 202E", "url": "/images/products/type-202e.webp" },
+        { "name": "Type 202E", "url": "/images/products/type-202e-1.webp" }
+      ],
+      "industry": [
+        "power-generation",
+        "mining",
+        "pulp-and-paper",
+        "food-and-beverage"
+      ]
+    },
+    {
+      "name": "Type 37",
+      "summary": "Pump Seals O-ring Pusher Seals Advantage Seal Type 37 Replaces: EagleBurgmann M2N, AESSEAL T07DU, ROTEN UNITEN 22",
+      "imageUrl": "/images/products/type-37.webp",
+      "slug": "type-37",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 37", "url": "/images/products/type-37.webp" },
+        { "name": "Type 37", "url": "/images/products/type-37-1.webp" }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Type 846B",
+      "summary": "Pump Seals O-ring Pusher Seals Advantage Seal Type 846B Replaces: Eagle Burgmann H7N, AESSEAL W07DMUB, VULCAN 1678",
+      "imageUrl": "/images/products/type-846b.webp",
+      "slug": "type-846b",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 846B", "url": "/images/products/type-846b.webp" },
+        { "name": "Type 846B", "url": "/images/products/type-846b-1.webp" }
+      ],
+      "industry": ["power-generation", "chemical", "pulp-and-paper"]
+    },
+    {
+      "name": "Type 846",
+      "summary": "Pump Seals O-ring Pusher Seals Advantage Seal Type 846 Replaces: Eagle Burgmann M7N, AESSEAL W07DMU, VULCAN 1677",
+      "imageUrl": "/images/products/type-846.webp",
+      "slug": "type-846",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 846", "url": "/images/products/type-846.webp" },
+        { "name": "Type 846", "url": "/images/products/type-846-1.webp" }
+      ],
+      "industry": ["chemical", "agriculture", "pulp-and-paper"]
+    },
+    {
+      "name": "Type 816",
+      "summary": "Pump Seals Elastomer Bellows Seals Advantage Seal Type 816 Replaces: Eagle Burgmann BT-AR, John Crane PR/DR, AESSEAL B01, VULCAN 18, ROTEN 37B/L5, Flowserve 118, Other 301",
+      "imageUrl": "/images/products/type-816.webp",
+      "slug": "type-816",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 816", "url": "/images/products/type-816.webp" },
+        { "name": "Type 816", "url": "/images/products/type-816-1.webp" }
+      ],
+      "industry": ["waste-water", "agriculture"]
+    },
+    {
+      "name": "Type 16C",
+      "summary": "Pump Seals Elastomer Bellows Seals Advantage Seal Type 16C Replaces: AESSEAL B05, VULCAN 14DIN, FLOWSERVE 140",
+      "imageUrl": "/images/products/type-16c.webp",
+      "slug": "type-16c",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 16C", "url": "/images/products/type-16c.webp" },
+        { "name": "Type 16C", "url": "/images/products/type-16c-1.webp" }
+      ],
+      "industry": ["power-generation", "agriculture", "food-and-beverage"]
+    },
+    {
+      "name": "Type 852",
+      "summary": "Pump Seals O-ring Pusher Seals Advantage Seal Type 852 Replaces: EagleBurgmann HJ92N",
+      "imageUrl": "/images/products/type-852.webp",
+      "slug": "type-852",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 852", "url": "/images/products/type-852.webp" },
+        { "name": "Type 852", "url": "/images/products/type-852-1.webp" }
+      ],
+      "industry": [
+        "pharmaceuticals-industry",
+        "power-generation",
+        "agriculture",
+        "food-and-beverage",
+        "pulp-and-paper"
+      ]
+    },
+    {
+      "name": "Type 850B",
+      "summary": "Pump Seals O-ring Pusher Seals Advantage Seal Type 850B Replaces: Eagle Burgmann H74D",
+      "imageUrl": "/images/products/type-850b.webp",
+      "slug": "type-850b",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 850B", "url": "/images/products/type-850b.webp" },
+        { "name": "Type 850B", "url": "/images/products/type-850b-1.webp" }
+      ],
+      "industry": ["power-generation", "chemical", "pulp-and-paper"]
+    },
+    {
+      "name": "Type 850",
+      "summary": "Pump Seals O-ring Pusher Seals Advantage Seal Type 850 Replaces: Eagle Burgmann M74D",
+      "imageUrl": "/images/products/type-850.webp",
+      "slug": "type-850",
+      "category": "pump-seals",
+      "subCategory": "pusher-seals",
+      "images": [
+        { "name": "Type 850", "url": "/images/products/type-850.webp" },
+        { "name": "Type 850", "url": "/images/products/type-850-1.webp" }
+      ],
+      "industry": ["chemical", "agriculture"]
+    },
+    {
+      "name": "Type 202V",
+      "summary": "Pump Seals Elastomer Bellows Seals Advantage Seal 202V Replaces: Eagle Burgmann ED560",
+      "imageUrl": "/images/products/type-202v.webp",
+      "slug": "type-202v",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 202V", "url": "/images/products/type-202v.webp" },
+        { "name": "Type 202V", "url": "/images/products/type-202v-1.webp" }
+      ],
+      "industry": ["waste-water"]
+    },
+    {
+      "name": "Type 201E",
+      "summary": "Pump Seals Elastomer Bellows SealsAdvantage Seal Type 201E Replaces: John crane Type 1, AESSEAL P04U, VULCAN A4, FLOWSERVE 52",
+      "imageUrl": "/images/products/type-201e.webp",
+      "slug": "type-201e",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 201E", "url": "/images/products/type-201e.webp" },
+        { "name": "Type 201E", "url": "/images/products/type-201e-1.webp" }
+      ],
+      "industry": [
+        "power-generation",
+        "mining",
+        "pulp-and-paper",
+        "food-and-beverage"
+      ]
+    },
+    {
+      "name": "Type 16WM",
+      "summary": "Pump Seals Elastomer Bellows Seals Advantage Seal Type 16WM Replaces: AESSEAL B07, FLOWSERVE 1724",
+      "imageUrl": "/images/products/type-16wm.webp",
+      "slug": "type-16wm",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 16WM", "url": "/images/products/type-16wm.webp" },
+        {
+          "name": "Type 16WM",
+          "url": "/images/products/type-16wm-1.webp"
+        }
+      ],
+      "industry": ["power-generation", "mining", "food-and-beverage"]
+    },
+    {
+      "name": "Type 16EB",
+      "summary": "Pump Seals Elastomer Bellows Seals Advantage Seal Type 16EB Replaces: BURGMANN MG, AESSEAL B09U, ROTEN L3, FLOWSERVE 190",
+      "imageUrl": "/images/products/type-16eb.webp",
+      "slug": "type-16eb",
+      "category": "pump-seals",
+      "subCategory": "elastomer-bellow-seals",
+      "images": [
+        { "name": "Type 16EB", "url": "/images/products/type-16eb.webp" },
+        {
+          "name": "Type 16EB",
+          "url": "/images/products/type-16eb-1.webp"
+        }
+      ],
+      "industry": ["waste-water", "agriculture", "food-and-beverage"]
+    },
+    {
+      "name": "Type AA03",
+      "summary": "Single Cartridge O-Ring Seal Advantage Seal Type AA03 Replaces: AESSEAL CSS CSSN",
+      "imageUrl": "/images/products/type-aa03.webp",
+      "slug": "type-aa03",
+      "category": "cartridge-seals",
+      "subCategory": "all",
+      "images": [
+        { "name": "Type AA03", "url": "/images/products/type-aa03.webp" },
+        {
+          "name": "Type AA03",
+          "url": "/images/products/type-aa03-1.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Type AA04",
+      "summary": "Dual Cartridge O-Ring Seal Advantage Seal Type AA04 Replaces: AESSEAL CDP CDPN",
+      "imageUrl": "/images/products/type-aa04.webp",
+      "slug": "type-aa04",
+      "category": "cartridge-seals",
+      "subCategory": "all",
+      "images": [
+        { "name": "Type AA04", "url": "/images/products/type-aa04.webp" },
+        {
+          "name": "Type AA04",
+          "url": "/images/products/type-aa04-1.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Type AA09",
+      "summary": "Double Monolithic Stationary Flow / Convection Advantage Seal Type AA09 Replaces: AESSEAL DMSF/DMSC",
+      "imageUrl": "/images/products/type-aa09.webp",
+      "slug": "type-aa09",
+      "category": "cartridge-seals",
+      "subCategory": "all",
+      "images": [
+        { "name": "Type AA09", "url": "/images/products/type-aa09.webp" },
+        {
+          "name": "Type AA09",
+          "url": "/images/products/type-aa09-1.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-B-U28 & ASI-B-L28",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-b-u28-asi-b-l28.webp",
+      "slug": "asi-b-u28-asi-b-l28",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-B-U28 & ASI-B-L28",
+          "url": "/images/products/asi-b-u28-asi-b-l28.webp"
+        },
+        {
+          "name": "ASI-B-U28 & ASI-B-L28",
+          "url": "/images/products/asi-b-u28-asi-b-l28-1.webp"
+        },
+        {
+          "name": "ASI-B-U28 & ASI-B-L28",
+          "url": "/images/products/asi-b-u28-asi-b-l28-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-C-U22 & ASI-C-L22",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-c-u22-asi-c-l22.webp",
+      "slug": "asi-c-u22-asi-c-l22",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-C-U22 & ASI-C-L22",
+          "url": "/images/products/asi-c-u22-asi-c-l22.webp"
+        },
+        {
+          "name": "ASI-C-U22 & ASI-C-L22",
+          "url": "/images/products/asi-c-u22-asi-c-l22-1.webp"
+        },
+        {
+          "name": "ASI-C-U22 & ASI-C-L22",
+          "url": "/images/products/asi-c-u22-asi-c-l22-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-D15-Double Seal",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-d15-double-seal.webp",
+      "slug": "asi-d15-double-seal",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-D15-Double Seal",
+          "url": "/images/products/asi-d15-double-seal.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-E-U22 & ASI-E-L22",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-e-u22-asi-e-l22.webp",
+      "slug": "asi-e-u22-asi-e-l22",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-E-U22 & ASI-E-L22",
+          "url": "/images/products/asi-e-u22-asi-e-l22.webp"
+        },
+        {
+          "name": "ASI-E-U22 & ASI-E-L22",
+          "url": "/images/products/asi-e-u22-asi-e-l22-1.webp"
+        },
+        {
+          "name": "ASI-E-U22 & ASI-E-L22",
+          "url": "/images/products/asi-e-u22-asi-e-l22-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-F-U22 & ASI-F-L22",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-f-u22-asi-f-l22.webp",
+      "slug": "asi-f-u22-asi-f-l22",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-F-U22 & ASI-F-L22",
+          "url": "/images/products/asi-f-u22-asi-f-l22.webp"
+        },
+        {
+          "name": "ASI-F-U22 & ASI-F-L22",
+          "url": "/images/products/asi-f-u22-asi-f-l22-1.webp"
+        },
+        {
+          "name": "ASI-F-U22 & ASI-F-L22",
+          "url": "/images/products/asi-f-u22-asi-f-l22-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-G-U20 & ASI-G-L20",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-g-u20-asi-g-l20.webp",
+      "slug": "asi-g-u20-asi-g-l20",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-G-U20 & ASI-G-L20",
+          "url": "/images/products/asi-g-u20-asi-g-l20.webp"
+        },
+        {
+          "name": "ASI-G-U20 & ASI-G-L20",
+          "url": "/images/products/asi-g-u20-asi-g-l20-1.webp"
+        },
+        {
+          "name": "ASI-G-U20 & ASI-G-L20",
+          "url": "/images/products/asi-g-u20-asi-g-l20-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-I-U28 & ASI-I-L28",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-i-u28-asi-i-l28.webp",
+      "slug": "asi-i-u28-asi-i-l28",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-I-U28 & ASI-I-L28",
+          "url": "/images/products/asi-i-u28-asi-i-l28.webp"
+        },
+        {
+          "name": "ASI-I-U28 & ASI-I-L28",
+          "url": "/images/products/asi-i-u28-asi-i-l28-1.webp"
+        },
+        {
+          "name": "ASI-I-U28 & ASI-I-L28",
+          "url": "/images/products/asi-i-u28-asi-i-l28-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-J-U25 & ASI-J-L25",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-j-u25-asi-j-l25.webp",
+      "slug": "asi-j-u25-asi-j-l25",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-J-U25 & ASI-J-L25",
+          "url": "/images/products/asi-j-u25-asi-j-l25.webp"
+        },
+        {
+          "name": "ASI-J-U25 & ASI-J-L25",
+          "url": "/images/products/asi-j-u25-asi-j-l25-1.webp"
+        },
+        {
+          "name": "ASI-J-U25 & ASI-J-L25",
+          "url": "/images/products/asi-j-u25-asi-j-l25-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-K-U35 & ASI-K-L35",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-k-u35-asi-k-l35.webp",
+      "slug": "asi-k-u35-asi-k-l35",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-K-U35 & ASI-K-L35",
+          "url": "/images/products/asi-k-u35-asi-k-l35.webp"
+        },
+        {
+          "name": "ASI-K-U35 & ASI-K-L35",
+          "url": "/images/products/asi-k-u35-asi-k-l35-1.webp"
+        },
+        {
+          "name": "ASI-K-U35 & ASI-K-L35",
+          "url": "/images/products/asi-k-u35-asi-k-l35-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-K-U35 & ASI-L-L35",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-k-u35-asi-l-l35.webp",
+      "slug": "asi-k-u35-asi-l-l35",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-K-U35 & ASI-L-L35",
+          "url": "/images/products/asi-k-u35-asi-l-l35.webp"
+        },
+        {
+          "name": "ASI-K-U35 & ASI-L-L35",
+          "url": "/images/products/asi-k-u35-asi-l-l35-1.webp"
+        },
+        {
+          "name": "ASI-K-U35 & ASI-L-L35",
+          "url": "/images/products/asi-k-u35-asi-l-l35-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-M-U35 & ASI-M-L35",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-m-u35-asi-m-l35.webp",
+      "slug": "asi-m-u35-asi-m-l35",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-M-U35 & ASI-M-L35",
+          "url": "/images/products/asi-m-u35-asi-m-l35.webp"
+        },
+        {
+          "name": "ASI-M-U35 & ASI-M-L35",
+          "url": "/images/products/asi-m-u35-asi-m-l35-1.webp"
+        },
+        {
+          "name": "ASI-M-U35 & ASI-M-L35",
+          "url": "/images/products/asi-m-u35-asi-m-l35-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-O-U45 & ASI-O-L45",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-o-u45-asi-o-l45.webp",
+      "slug": "asi-o-u45-asi-o-l45",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-O-U45 & ASI-O-L45",
+          "url": "/images/products/asi-o-u45-asi-o-l45.webp"
+        },
+        {
+          "name": "ASI-O-U45 & ASI-O-L45",
+          "url": "/images/products/asi-o-u45-asi-o-l45-1.webp"
+        },
+        {
+          "name": "ASI-O-U45 & ASI-O-L45",
+          "url": "/images/products/asi-o-u45-asi-o-l45-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-P-U60 & ASI-P-L60",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-p-u60-asi-p-l60.webp",
+      "slug": "asi-p-u60-asi-p-l60",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-P-U60 & ASI-P-L60",
+          "url": "/images/products/asi-p-u60-asi-p-l60.webp"
+        },
+        {
+          "name": "ASI-P-U60 & ASI-P-L60",
+          "url": "/images/products/asi-p-u60-asi-p-l60-1.webp"
+        },
+        {
+          "name": "ASI-P-U60 & ASI-P-L60",
+          "url": "/images/products/asi-p-u60-asi-p-l60-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-Q-U60 & ASI-Q-L60",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-q-u60-asi-q-l60.webp",
+      "slug": "asi-q-u60-asi-q-l60",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-Q-U60 & ASI-Q-L60",
+          "url": "/images/products/asi-q-u60-asi-q-l60.webp"
+        },
+        {
+          "name": "ASI-Q-U60 & ASI-Q-L60",
+          "url": "/images/products/asi-q-u60-asi-q-l60-1.webp"
+        },
+        {
+          "name": "ASI-Q-U60 & ASI-Q-L60",
+          "url": "/images/products/asi-q-u60-asi-q-l60-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-A-U20 & ASI-A-L20",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-a-u20-asi-a-l20.webp",
+      "slug": "asi-a-u20-asi-a-l20",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-A-U20 & ASI-A-L20",
+          "url": "/images/products/asi-a-u20-asi-a-l20.webp"
+        },
+        {
+          "name": "ASI-A-U20 & ASI-A-L20",
+          "url": "/images/products/asi-a-u20-asi-a-l20-1.webp"
+        },
+        {
+          "name": "ASI-A-U20 & ASI-A-L20",
+          "url": "/images/products/asi-a-u20-asi-a-l20-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-R-U60 & ASI-R-L60",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-r-u60-asi-r-l60.webp",
+      "slug": "asi-r-u60-asi-r-l60",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-R-U60 & ASI-R-L60",
+          "url": "/images/products/asi-r-u60-asi-r-l60.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "AS1-S-U90 & ASI-S-L80",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/as1-s-u90-asi-s-l80.webp",
+      "slug": "as1-s-u90-asi-s-l80",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "AS1-S-U90 & ASI-S-L80",
+          "url": "/images/products/as1-s-u90-asi-s-l80.webp"
+        },
+        {
+          "name": "AS1-S-U90 & ASI-S-L80",
+          "url": "/images/products/as1-s-u90-asi-s-l80-1.webp"
+        },
+        {
+          "name": "AS1-S-U90 & ASI-S-L80",
+          "url": "/images/products/as1-s-u90-asi-s-l80-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-S-U90 & ASI-U-L90",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-s-u90-asi-u-l90.webp",
+      "slug": "asi-s-u90-asi-u-l90",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-S-U90 & ASI-U-L90",
+          "url": "/images/products/asi-s-u90-asi-u-l90.webp"
+        },
+        {
+          "name": "ASI-S-U90 & ASI-U-L90",
+          "url": "/images/products/asi-s-u90-asi-u-l90-1.webp"
+        },
+        {
+          "name": "ASI-S-U90 & ASI-U-L90",
+          "url": "/images/products/asi-s-u90-asi-u-l90-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-S-U90 & ASI-T-L120",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-s-u90-asi-t-l120.webp",
+      "slug": "asi-s-u90-asi-t-l120",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-S-U90 & ASI-T-L120",
+          "url": "/images/products/asi-s-u90-asi-t-l120.webp"
+        },
+        {
+          "name": "ASI-S-U90 & ASI-T-L120",
+          "url": "/images/products/asi-s-u90-asi-t-l120-1.webp"
+        },
+        {
+          "name": "ASI-S-U90 & ASI-T-L120",
+          "url": "/images/products/asi-s-u90-asi-t-l120-2.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "ASI-Z-U25 & ASI-Z-L24",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/asi-z-u25-asi-z-l24.webp",
+      "slug": "asi-z-u25-asi-z-l24",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "ASI-Z-U25 & ASI-Z-L24",
+          "url": "/images/products/asi-z-u25-asi-z-l24.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Xylem flygt Pumps",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/xylem-flygt-pumps.webp",
+      "slug": "xylem-flygt-pumps",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "Xylem flygt Pumps",
+          "url": "/images/products/xylem-flygt-pumps.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Xylem flygt Pumps 1",
+      "summary": "Parameters: Temperature: t = -30 °C(-22°F) ... 180 °C (+356°F) Pressure: p1 = 12 bar (174 PSI) Sliding velocity: vg = 10 m/s (33 ft/s)",
+      "imageUrl": "/images/products/xylem-flygt-pumps-1.webp",
+      "slug": "xylem-flygt-pumps-1",
+      "category": "customized-seals",
+      "subCategory": "flygt",
+      "images": [
+        {
+          "name": "Xylem flygt Pumps 1",
+          "url": "/images/products/xylem-flygt-pumps-1.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Type 511-12",
+      "summary": "Stainless steel vertical multistage centrifugal pump seal O-ring Pusher Seals Type 511-12 Cartridge Seal To Replace Grundfos 'H-'Code Seals Installed In CR,CRI,CRIE Series Vertical Multi -Stage Pumps",
+      "imageUrl": "/images/products/type-511-12.webp",
+      "slug": "type-511-12",
+      "category": "customized-seals",
+      "subCategory": "groundfos",
+      "images": [
+        {
+          "name": "Type 511-12",
+          "url": "/images/products/type-511-12.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Type 511-16",
+      "summary": "Stainless steel vertical multistage centrifugal pump seal O-ring Pusher Seals Type 511-16 Cartridge Seal To Replace Grundfos 'H-'Code Seals Installed In CR,CRI,CRIE Series Vertical Multi -Stage Pumps",
+      "imageUrl": "/images/products/type-511-16.webp",
+      "slug": "type-511-16",
+      "category": "customized-seals",
+      "subCategory": "groundfos",
+      "images": [
+        {
+          "name": "Type 511-16",
+          "url": "/images/products/type-511-16.webp"
+        }
+      ],
+      "industry": []
+    },
+    {
+      "name": "Type 511-22",
+      "summary": "Stainless steel vertical multistage centrifugal pump seal O-ring Pusher Seals Type 511-22 Cartridge Seal To Replace Grundfos 'H-'Code Seals Installed In CR,CRI,CRIE Series Vertical Multi - Stage Pumps",
+      "imageUrl": "/images/products/type-511-22.webp",
+      "slug": "type-511-22",
+      "category": "customized-seals",
+      "subCategory": "groundfos",
+      "images": [
+        {
+          "name": "Type 511-22",
+          "url": "/images/products/type-511-22.webp"
+        }
+      ],
+      "industry": []
+    }
+  ]
+}
