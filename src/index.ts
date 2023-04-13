@@ -13,18 +13,11 @@ export default {
     env: Env,
     ctx: ExecutionContext
   ): Promise<Response> {
-    const { method, headers } = request;
+    const { method } = request;
 
     // Check if the request is a POST request
     if (method !== "POST") {
       return new Response("Method not allowed", { status: 405 });
-    }
-
-    // Check if the request content type is application/json
-    if (headers.get("content-type") !== "application/json") {
-      return new Response("Content-Type must be application/json", {
-        status: 400,
-      });
     }
 
     // Parse the request body as JSON
@@ -36,7 +29,6 @@ export default {
 
     // Validate the data
     const { success } = contactSchema.safeParse(data);
-    console.log(success, data);
     if (!success) {
       return new Response("Invalid data", { status: 400 });
     }
@@ -78,66 +70,66 @@ export default {
     msg.addMessage({
       contentType: "text/html",
       data: `
-					<style>
-						body {
-							font-family: Arial, sans-serif;
-							font-size: 16px;
-							line-height: 1.4;
-							color: #333;
-						}
-						h1 {
-							font-size: 28px;
-							margin-bottom: 20px;
-						}
-						p {
-							margin-bottom: 10px;
-						}
-						strong {
-							font-weight: bold;
-						}
-						a {
-							color: #0078ae;
-							text-decoration: none;
-						}
-						img {
-							display: block;
-							margin-top: 20px;
-							max-width: 100%;
-							height: auto;
-						}
-						/* Responsive styles */
-						@media screen and (max-width: 600px) {
-							body {
-								font-size: 14px;
-							}
-							h1 {
-								font-size: 24px;
-							}
-						}
-					</style>
-					<div style="max-width: 600px; margin: 0 auto;">
-						<h1>Contact Us Form Submission</h1>
-						<p><strong>Date:</strong> ${dateFormatted}</p>
-						<p><strong>Name:</strong> ${name}</p>
-						<p><strong>Email:</strong> ${email}</p>
-						<p><strong>Company Name:</strong> ${companyName}</p>
-						<p><strong>Telephone:</strong> ${telephone}</p>
-						<p><strong>Message:</strong> ${message}</p>
-						${product ? "<p><strong>Product:</strong> " + product.name + "</p>" : ""}
-						${
+    			<style>
+    				body {
+    					font-family: Arial, sans-serif;
+    					font-size: 16px;
+    					line-height: 1.4;
+    					color: #333;
+    				}
+    				h1 {
+    					font-size: 28px;
+    					margin-bottom: 20px;
+    				}
+    				p {
+    					margin-bottom: 10px;
+    				}
+    				strong {
+    					font-weight: bold;
+    				}
+    				a {
+    					color: #0078ae;
+    					text-decoration: none;
+    				}
+    				img {
+    					display: block;
+    					margin-top: 20px;
+    					max-width: 100%;
+    					height: auto;
+    				}
+    				/* Responsive styles */
+    				@media screen and (max-width: 600px) {
+    					body {
+    						font-size: 14px;
+    					}
+    					h1 {
+    						font-size: 24px;
+    					}
+    				}
+    			</style>
+    			<div style="max-width: 600px; margin: 0 auto;">
+    				<h1>Contact Us Form Submission</h1>
+    				<p><strong>Date:</strong> ${dateFormatted}</p>
+    				<p><strong>Name:</strong> ${name}</p>
+    				<p><strong>Email:</strong> ${email}</p>
+    				<p><strong>Company Name:</strong> ${companyName}</p>
+    				<p><strong>Telephone:</strong> ${telephone}</p>
+    				<p><strong>Message:</strong> ${message}</p>
+    				${product ? "<p><strong>Product:</strong> " + product.name + "</p>" : ""}
+    				${
               product
                 ? "<p><strong>Product Link:</strong> " +
                   `<a href="https://asiseals.pages.dev/products/${product.category}/${product.subCategory}/${product.slug}">https://asiseals.pages.dev/products/${product.category}/${product.subCategory}/${product.slug}</a>` +
                   "</p>"
                 : ""
             }
-						${
+    				${
               product
                 ? `<img src="https://asiseals.pages.dev/${product.imageUrl}" alt="${product.name}" />`
                 : ""
             }
-					</div>
-			`,
+    			</div>
+    	`,
     });
 
     // Attach the email message to the EmailMessage object
@@ -153,14 +145,11 @@ export default {
       return new Response(e, { status: 500 });
     }
 
-    const response = new Response(JSON.stringify({ success: true }), {
+    return new Response(JSON.stringify({ success: true }), {
       status: 200,
       headers: {
         "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "*",
       },
     });
-
-    return response;
   },
 };
