@@ -1,4 +1,4 @@
-name = "asiseals-email-workers"
+name = "asiseals-email-worker"
 main = "src/index.ts"
 compatibility_date = "2023-04-13"
 
@@ -6,6 +6,6 @@ compatibility_date = "2023-04-13"
 send_email = [
     { type = "send_email", name = "SEB", allowed_destination_addresses = [
         "bonjomontes@gmail.com",
-        "river@asiseal.com"
+        "river@asiseal.com",
     ] },
 ]
