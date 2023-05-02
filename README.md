@@ -42,11 +42,15 @@ send_email = [
 {
   receiver: {
     email: "receiver@gmail.com"
-    name: "Any name is Okay (?)"
+    name: "Any name is okay (?)"
   },
-  ...rest
+  sender: {
+    email: "sender@custom_domain.com"
+    name: "Any name is okay (?)"
+  }
 }
 
+// Make sure that the sender email address is registered in your Cloudflare Email Routing Custom Addresses, unless it would not work.
 // Make sure that the receiver email address has been verified in your Cloudflare Email Routing, unless it would not work.
 ```
 
