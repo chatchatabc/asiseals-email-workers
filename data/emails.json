@@ -1,0 +1,11 @@
+{
+  "sender": {
+    "email": "contact_form@bonkind.xyz",
+    "name": "Asiseal Contact Us Form"
+  },
+  "receiver": {
+    "email": "bon@bonkind.xyz",
+    "name": "Asiseals"
+  },
+  "subject": "Asiseal Contact Us Form"
+}

@@ -2,6 +2,7 @@ import { EmailMessage } from "cloudflare:email";
 import { createMimeMessage } from "mimetext";
 import { contactSchema } from "./domain/schemas/contactSchema";
 import productsJson from "../data/products.json";
+import emailsJson from "../data/emails.json";
 
 export interface Env {
   SEB: SendEmail;
@@ -62,11 +63,11 @@ export default {
     // Create the email message
     const msg = createMimeMessage();
     msg.setSender({
-      name: "Asiseal Contact Us Form",
-      addr: "contact_form@bonkind.xyz",
+      name: emailsJson.sender.name,
+      addr: emailsJson.sender.email,
     });
-    msg.setRecipient("bonjomontes@gmail.com");
-    msg.setSubject("An email generated in a worker");
+    msg.setRecipient(emailsJson.receiver.email);
+    msg.setSubject(emailsJson.subject);
     msg.addMessage({
       contentType: "text/html",
       data: `
@@ -134,8 +135,8 @@ export default {
 
     // Attach the email message to the EmailMessage object
     var emailMessage = new EmailMessage(
-      "contact_form@bonkind.xyz", // sender
-      "bonjomontes@gmail.com", // recipient
+      emailsJson.sender.email, // sender
+      emailsJson.receiver.email, // recipient
       msg.asRaw()
     );
 
