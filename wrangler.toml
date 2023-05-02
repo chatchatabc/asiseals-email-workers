@@ -6,7 +6,5 @@ compatibility_date = "2023-04-13"
 send_email = [
   { type = "send_email", name = "SEB", allowed_destination_addresses = [
     "bonjomontes@gmail.com",
-    "raphaeldalangin@chatchatabc.com",
   ] },
-
 ]
