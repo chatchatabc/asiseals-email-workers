@@ -37,7 +37,7 @@ app.post("/", async (c) => {
     );
   }
 
-  const email = emailSend(dataJson, c.env, product);
+  const email = await emailSend(dataJson, c.env, product);
 
   if (!email) {
     return new Response(
