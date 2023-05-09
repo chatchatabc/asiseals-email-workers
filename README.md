@@ -7,6 +7,7 @@ Workers.
 
 - Cloudflare Workers: https://developers.cloudflare.com/workers/
 - Cloudflare Email Workers: https://developers.cloudflare.com/email-routing/email-workers/
+- Hono: https://hono.dev/
 
 ### Cloudflare Workers
 
@@ -19,14 +20,18 @@ Workers.
 You can programmatically send some emails from your Workers to a verified email address registered in your `Email Routing`. Learn more [here](https://developers.cloudflare.com/email-routing/), on how
 to get started with `Email Routing`.
 
+### Hono
+
+Hono is a router package that handle http requests that our server receives from the outside world. With the help of Hono, it would be much easier for us to implement logics and functions for each http route.
+
 ## Instructions
 
 ### Binding Email Accounts
 
 1. Enable `Email Routing` in your Cloudflare account by adding an existing email address and verifying it. For more information, just
-   click [here](https://developers.cloudflare.com/email-routing/get-started/enable-email-routing/). 
+   click [here](https://developers.cloudflare.com/email-routing/get-started/enable-email-routing/).
 2. After enabling `Email Routing`, make sure to add two custom addresses. Those two custom addresses will serve as your sender and receiver. Example:
-    1. asiseal@rsocketbyexample.info
+   1. asiseal@rsocketbyexample.info
 3. [Open](./wrangler.toml) `wrangler.toml` and configure some variables that would work on your situation. Example:
 
 ```toml
@@ -57,8 +62,8 @@ send_email = [
 
 Attentions:
 
-* Make sure that the sender email address is registered in your Cloudflare Email Routing Custom Addresses, unless it would not work.
-* Make sure that the receiver email address has been verified in your Cloudflare Email Routing, unless it would not work.
+- Make sure that the sender email address is registered in your Cloudflare Email Routing Custom Addresses, unless it would not work.
+- Make sure that the receiver email address has been verified in your Cloudflare Email Routing, unless it would not work.
 
 ### Deployment
 
