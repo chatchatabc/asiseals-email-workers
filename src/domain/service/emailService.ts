@@ -101,7 +101,8 @@ export async function emailSend(
 
   try {
     await env.SEB.send(emailMessage);
+    return true;
   } catch (e: any) {
-    return new Response(e, { status: 500 });
+    return false;
   }
 }
