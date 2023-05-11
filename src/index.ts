@@ -1,4 +1,3 @@
-import { contactSchema } from "./domain/schemas/contactSchema";
 import productsJson from "../data/products.json";
 import { Hono } from "hono";
 import { productFindBySlug } from "./domain/service/productService";
@@ -18,9 +17,8 @@ app.post("/", async (c) => {
     Object.entries(dataJson).filter(([_, v]) => v !== "")
   );
   // Validate the data
-  const { success } = contactSchema.safeParse(data);
-  if (!success) {
-    return new Response("Invalid data", { status: 400 });
+  if (!data.name || !data.email || !data.message) {
+    return new Response("Missing data", { status: 400 });
   }
 
   // Find product
