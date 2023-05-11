@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "hono": "^3.1.8",
-    "mimetext": "^3.0.6",
-    "zod": "^3.21.4"
+    "mimetext": "^3.0.6"
   }
 }
